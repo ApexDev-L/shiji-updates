@@ -1,9 +1,14 @@
-<?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"
-     xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
-  <channel>
-    <title>拾记更新</title>
-    <description>拾记版本更新清单</description>
-    <language>zh-cn</language>
-  </channel>
-</rss>
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>拾记</title>
+        <item>
+            <title>1.1</title>
+            <pubDate>Fri, 09 Oct 2026 08:08:42 +0800</pubDate>
+            <sparkle:version>2</sparkle:version>
+            <sparkle:shortVersionString>1.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>27.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/ApexDev-L/shiji-updates/releases/download/v1.1/Shiji-2.zip" length="3529268" type="application/octet-stream" sparkle:edSignature="P2aHxxLdgcJq/CaM66KAu/MRVe7fb8gw2k70RFgO0VjV4PZbyNbKMghpdq/ALel8nNrJ0wvpm1D0ZEdYCJs2CQ=="/>
+        </item>
+    </channel>
+</rss
