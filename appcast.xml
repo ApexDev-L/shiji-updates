@@ -3,12 +3,12 @@
     <channel>
         <title>拾记</title>
         <item>
-            <title>1.1</title>
-            <pubDate>Fri, 09 Oct 2026 08:08:42 +0800</pubDate>
-            <sparkle:version>2</sparkle:version>
-            <sparkle:shortVersionString>1.1</sparkle:shortVersionString>
+            <title>1.2</title>
+            <pubDate>Sun, 11 Oct 2026 11:59:02 +0800</pubDate>
+            <sparkle:version>3</sparkle:version>
+            <sparkle:shortVersionString>1.2</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>27.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/ApexDev-L/shiji-updates/releases/download/v1.1/Shiji-2.zip" length="3529268" type="application/octet-stream" sparkle:edSignature="P2aHxxLdgcJq/CaM66KAu/MRVe7fb8gw2k70RFgO0VjV4PZbyNbKMghpdq/ALel8nNrJ0wvpm1D0ZEdYCJs2CQ=="/>
+            <enclosure url="https://raw.githubusercontent.com/ApexDev-L/shiji-updates/main/Shiji-3.zip" length="3573711" type="application/octet-stream" sparkle:edSignature="PF+SRrhUMi4iWxBvrOPEAJn9JuG624/tYae2H5yrxL1L4NNhVzWTvnBm7UKwKzW0vsdkLz67HX31Gtsq5/lFAw=="/>
         </item>
     </channel>
 </rss>
